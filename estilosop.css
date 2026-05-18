@@ -1,0 +1,131 @@
+
+.blackops {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  color: #F4B942;
+}
+body{
+    background-color: #14213D !important;
+}
+header{
+   background-color: #14213D;
+}
+.nav-link{
+    color: #FFD166 !important;
+}
+.nav-item{
+    font-weight: bold;
+}
+.nav-pills .nav-link.active{
+    background-color: #FFD166 !important;
+    color: black !important;
+}
+.banner img{
+    width: 97%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin: 15px;
+}
+.parrafo{
+    text-align:justify;
+    color: #f8f9fa;
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub {
+  font-family: "Oi", serif;
+  font-weight: 900;
+  font-style: normal;
+    text-align: center;
+   color: #d62828;
+   margin-top: 20px;
+   font-size: xx-large;
+}
+footer .nav-link{
+    color: #FFD166 !important;
+    font-weight: bold;
+}
+footer .nav-link:hover{
+    color: #f8f9fa !important;
+}
+footer p{
+    color: #FFD166 !important;
+    font-weight: bold;
+}
+footer{
+    background-color: #14213D;
+    padding: 20px 24px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.card{
+    background-color: #1e293b;
+    width: 260px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 500px;
+}
+.personaje{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.t{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.d{
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+.sub2 {
+  font-family: "Oi", serif;
+  font-weight: 900;
+  font-style: normal;
+    text-align: center;
+   color: blueviolet;
+   margin-top: 20px;
+}
+.sub3 {
+  font-family: "Oi", serif;
+  font-weight: 900;
+  font-style: normal;
+    text-align: center;
+   color: cyan;
+   margin-top: 20px;
+}
+.sub4 {
+  font-family: "Oi", serif;
+  font-weight: 900;
+  font-style: normal;
+    text-align: center;
+   color: red;
+   margin-top: 20px;
+}
+.isla{
+    width:400px;
+    height:auto;
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+}
